@@ -21,6 +21,13 @@ ReactJS is a popular JavaScript library for building user interfaces. It helps c
 - **Swiggy API**: Fetching real-time data to keep you updated with the latest restaurant info.
 - **Parcel**: Blazing fast, zero configuration web application bundler.
 
+## Screenshots 📸
+- **Home Page**  -->  **About Page**   -->     **Contact us**
+<div style="display: flex;">
+<img src="https://raw.githubusercontent.com/SandhyaDevadiga/HungryGo/main/Screenshot%20(17).png" width="300" height="200" alt="Home Page" style="margin-right: 40px;">
+<img src="https://raw.githubusercontent.com/SandhyaDevadiga/HungryGo/main/Screenshot%20(18).png" width="300" height="200" alt="About Page" style="margin-right: 20px;">
+<img src="https://raw.githubusercontent.com/SandhyaDevadiga/HungryGo/main/Screenshot%20(19).png" width="300" height="200" alt="Contact Us">
+</div>
 
 1. **Clone the repository**:
    ```bash
