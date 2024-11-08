@@ -21,6 +21,9 @@ ReactJS is a popular JavaScript library for building user interfaces. It helps c
 - **Swiggy API**: Fetching real-time data to keep you updated with the latest restaurant info.
 - **Parcel**: Blazing fast, zero configuration web application bundler.
 
+## 🚀 Live Demo  
+Check out the deployed website here: [HungryGo](https://hungrygo20.netlify.app/)
+
 ## Screenshots 📸
 - **Home Page**  -->  **About Page**   -->     **Contact us**
 <div style="display: flex;">
